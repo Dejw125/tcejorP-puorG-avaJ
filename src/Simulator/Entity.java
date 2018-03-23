@@ -5,7 +5,7 @@ import java.util.List;
 public abstract class Entity {
 	protected String UID;
 	protected Location location;
-	
+	//vikram comment
 	
 	public Entity(String ID, Location loc) {
 		UID = ID;
